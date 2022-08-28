@@ -4,7 +4,7 @@
  
 ## Sobre
 
-O presente projeto consiste em uma Ilustração, produzida com o intuito de praticar CSS, foi elaborado esse layout de um bolo de aniversário simples, leve e divertido.
+O presente projeto consiste em uma Ilustração, desenvolvida com o intuito de praticar CSS, foi elaborado esse layout de um bolo de aniversário simples, leve e divertido.
 
 ## Produzido com:
 
